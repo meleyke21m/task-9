@@ -1,0 +1,464 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+header {
+    padding: 20px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.img h4 {
+    color: blue;
+    font-size: 25px;
+}
+
+.img span {
+    color: orangered;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+
+}
+
+.flex button {
+    padding: 10px 26px;
+    border-radius: 20px;
+    background-color: orangered;
+    border: none;
+    color: #fff;
+}
+
+nav ul:hover {
+    color: red;
+}
+
+.text {
+    width: 580px;
+    padding: 20px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.left img {
+    width: 500px;
+}
+
+.text span {
+    color: red;
+    font-size: 20px;
+
+}
+
+.text h3 {
+    font-size: 35px;
+}
+
+.text p {
+    font-size: 14px;
+}
+
+.container {
+    position: relative;
+}
+
+.container form input {
+    padding: 23px 6rem;
+    margin-top: 5px;
+    background-color: #03a4ed;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+}
+
+.container button {
+    padding: 10px 2rem;
+    background-color: #fff;
+    color: red;
+    position: absolute;
+    border-radius: 20px;
+    left: 23rem;
+    bottom: 9rem;
+    border: none;
+    outline: none;
+
+}
+footer{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.long {
+    color: #fff;
+
+
+}
+
+/* .moon{
+    bottom: 5px;
+} */
+.small {
+    padding: 9px;
+}
+
+.photo {
+    background-image: url("https://templatemo.com/templates/templatemo_562_space_dynamic/assets/images/contact-bg.png");
+
+}
+
+.size {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.right {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.soon {
+    display: flex;
+}
+
+.lock {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 33rem;
+
+}
+
+.star {
+    /* width: 406px; */
+    /* height: 10px; */
+
+}
+
+.title h3 {
+    font-size: 30px;
+    margin-bottom: 1rem;
+    color: #03a4ed;
+}
+
+.title {
+    width: 400px;
+
+
+}
+
+.end {
+    margin-top: 5rem;
+    position: relative;
+
+}
+
+.font h3 {
+    font-size: 30px;
+    color: red;
+    width: 350px;
+    margin-bottom: 2rem;
+}
+
+.font img {
+    border-radius: 20px;
+    width: 500px;
+}
+
+.red {
+    display: flex;
+    gap: 9px;
+
+    align-items: center;
+}
+
+.red p {
+    color: gray;
+}
+
+.red i {
+    color: red;
+}
+
+.black {
+    width: 400px;
+    margin-top: 2rem;
+
+}
+
+.black h5 {
+    font-size: 20px;
+}
+
+.yellow {
+    background-color: #fff;
+    border-radius: 20px;
+    width: 400px;
+    padding: 10px;
+    position: absolute;
+    height: 12rem;
+    bottom: 2rem;
+
+}
+
+/* .green{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .green img{
+    width: 100px;
+} */
+.end button {
+    padding: 10px 20px;
+    margin-top: 2rem;
+    border-radius: 20px;
+    background-color: #03a4ed;
+    color: #fff;
+    border: none;
+    margin-bottom: -5rem;
+}
+
+
+.flag {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.top {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.top i {
+    color: red;
+}
+
+.img4 img {
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+.lorem {
+    display: flex;
+    gap: 3rem;
+
+
+
+}
+
+.text3 h4 {
+    font-size: 20px;
+}
+
+.text3 {
+    width: 200px;
+}
+
+.cloud {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    margin-top: 4rem;
+}
+
+.big {
+    margin-top: 5rem;
+    width: 515px;
+    color: #fff;
+    font-size: 20px;
+
+
+
+}
+.anime form input{
+    padding: 15px 20px;
+    border-radius: 20px;
+    background-color:#d1f3ff;
+    border: none;
+}
+.form2 input{
+    padding: 13px 8rem;
+    border-radius: 20px;
+    border: none;
+    background-color: #d1f3ff;
+    margin-top: 1rem;
+}
+.form2 textarea{
+    padding: 3rem 8rem;
+    border-radius: 10px;
+    border: none;
+    background-color: #d1f3ff;
+    margin-top: 1rem;
+}
+
+.big h4 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.large {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.large i {
+    background-color: #fff;
+    padding: 10px;
+    color: red;
+    border-radius: 50%;
+}
+
+.common2 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10rem;
+    flex-wrap: wrap;
+    
+
+
+}
+.common{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.font-img {
+    background-image: url("https://templatemo.com/templates/templatemo_562_space_dynamic/assets/images/contact-bg.png");
+    height: 25rem;
+  
+}
+.center{
+    display: flex;
+    justify-content: space-around;
+    gap: 5rem;
+    flex-wrap: wrap;
+    
+}
+
+.one {
+   
+    position: relative;
+    width: 200px;
+    /* padding: ; */
+}
+
+.one:hover .provide-card-content {
+    /* position: relative; */
+    animation: cardAnime1 1s linear 1 forwards;
+
+}
+
+
+.one:hover .provide-card-img {
+    /* position: relative; */
+    animation: cardAnime2 1s linear 1 forwards;
+
+}
+
+.container5 h2 {
+    text-align: center;
+    padding: 20px 0;
+    width: 20%;
+    margin: 0 auto;
+    line-height: 33px;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+
+.provide-card-img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
+    background-color: #fff;
+    position: relative;
+}
+
+.provide-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.provide-card-content {
+    position: absolute;
+    z-index: -1;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    border-radius: 20px;
+    background: linear-gradient(105deg, rgba(255, 77, 30, 1) 0%, rgba(255, 44, 109, 1) 100%);
+}
+
+.provide-card-content h3 {
+    padding: 20px 0;
+}
+
+.provide-card-content p {
+    line-height: 25px;
+}
+
+@keyframes cardAnime1 {
+    0% {
+        bottom: 0px;
+    }
+
+    100% {
+        bottom: 90px;
+    }
+}
+
+@keyframes cardAnime2 {
+    0% {
+        top: 0px;
+    }
+
+    100% {
+        top: 90px;
+    }
+}
+
+
+@media (max-width:992px) {
+    header nav {
+        display: none;
+    }
+
+}
+
+/* @media(max-width:600px){
+    nav i{
+        display: block;
+    }
+} */
